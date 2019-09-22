@@ -1,0 +1,9 @@
+#Checksums from cksum
+Original: 322305645 1048576 Kirby Tilt n Tumble.gbc (md5sum: f2e24776d93082362c9b435abc167d89)
+Disasm:   322305645 1048576 Kirby Tilt n Tumble.gbc (md5sum: f2e24776d93082362c9b435abc167d89)
+
+#CRC32 Checksums from Windows 10
+Original: E541ACF1 (md5sum: f2e24776d93082362c9b435abc167d89)
+Disasm:   E541ACF1 (md5sum: f2e24776d93082362c9b435abc167d89)
+
+#Original's md5sum was eb46307af9de152f8d35469ed5bda734 on original calculation but rechecking the sum it is f2e24776d93082362c9b435abc167d89
